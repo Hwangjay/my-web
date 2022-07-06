@@ -83,21 +83,21 @@ header{
 }
 
 .pro_ski{
+  margin: 2px 1em 0 auto;
   text-align : center;
-
-  background-color: white;
+  background-color: rgb(244, 246, 248);
 }
 
 .pro_sake{
   text-align : center;
-
-  background-color: white;
+  margin: 2px 1em 0 auto;
+  background-color: rgb(244, 246, 248);
 }
 
 .ski_sub{
   text-align : center;
-
-  background-color: white;
+  margin: 2px 1em 0 auto;
+  background-color: rgb(185, 200, 241);
 }
 .ski_img{
   text-align : center;
@@ -135,8 +135,8 @@ header{
 
 .sake_sub{
   text-align : center;
-
-  background-color: white;
+  margin: 2px 1em 0 auto;
+  background-color: rgb(185, 200, 241);
 }
 .sake_img{
   text-align : center;
@@ -149,7 +149,6 @@ header{
   background-color: white;
 }.sake_img2{
   text-align : center;
-
   background-color: white;
 }
 .sake_explan{
@@ -168,6 +167,5 @@ header{
   background-color: white;
 }.sake_amt{
   text-align : center;
-
   background-color: white;
 }
